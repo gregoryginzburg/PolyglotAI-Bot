@@ -1,4 +1,4 @@
 bin/
 test.ipynb
 test.py
-__pycache__
+__pycache__/
