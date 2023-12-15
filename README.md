@@ -5,7 +5,7 @@ PolyglotAI Bot - это бот для Telegram, созданный для удо
 
 ## Установка
 Для запуска бота выполните следующие шаги:
-1. Клонируйте репозиторий: `git clone []`
+1. Клонируйте репозиторий: `git clone https://github.com/gregoryginzburg/PolyglotAI-Bot.git`
 2. Установите необходимые пакеты Python: `pip install -r requirements.txt`
 
 ## Конфигурация
